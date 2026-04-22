@@ -1,3 +1,6 @@
+## 🌐 Live Demo
+👉 https://student-performance-predictor-ahdrgusgfbvkkj8zp9azgs.streamlit.app/
+
 # 🎓 Student Performance Predictor
 
 This project predicts student performance using Machine Learning.
@@ -15,8 +18,7 @@ This project predicts student performance using Machine Learning.
 ## ▶️ Run Locally
 
 
-## 🌐 Live Demo
-👉 https://student-performance-predictor-ahdrgusgfbvkkj8zp9azgs.streamlit.app/
+
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
